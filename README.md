@@ -1,2 +1,2 @@
-# Python_WebCrawler
-WebCrawling Procject with Python
+# Python_WebScraping
+WebScraping Toy Procject with Python
