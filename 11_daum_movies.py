@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# 다음 사이트의 역대 관객순위를 연도별, 상위 5개의 이미지를 저장하기
+# 다음 사이트의 역대 관객순위를 연도별, 상위 5개의 이미지를 저장하기 2:41:10
 
 for year in range(2015, 2021):
     url = "https://search.daum.net/search?w=tot&q={}%EB%85%84%EC%98%81%ED%99%94%EC%88%9C%EC%9C%84&DA=MOR&rtmaxcoll=MOR".format(year)
